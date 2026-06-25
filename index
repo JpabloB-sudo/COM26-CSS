@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demostración de CSS Moderno</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="main-header">
+        <div class="logo">TechVision 2026</div>
+        <nav class="main-nav">
+            <ul>
+                <li><a href="#">Inicio</a></li>
+                <li><a href="#">Servicios</a></li>
+                <li><a href="#">Portafolio</a></li>
+                <li><a href="#">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero-section">
+        <h1>El futuro del diseño web visual</h1>
+        <p>Aprende a transformar estructuras planas en experiencias digitales dinámicas y adaptables.</p>
+        <button class="btn-primary">Explorar Más</button>
+    </section>
+
+    <main class="services-container">
+        <h2>Nuestros Pilares</h2>
+        <div class="grid-services">
+            <div class="card">
+                <h3>Estructura Limpia</h3>
+                <p>Uso correcto de selectores y metodologías para mantener el código mantenible.</p>
+            </div>
+            <div class="card">
+                <h3>Flexibilidad</h3>
+                <p>Dominio de Flexbox para alinear componentes dinámicos y menús de navegación.</p>
+            </div>
+            <div class="card">
+                <h3>Poder de Grid</h3>
+                <p>Creación de layouts bidimensionales complejos sin sufrir con los floats.</p>
+            </div>
+            <div class="card">
+                <h3>Adaptabilidad</h3>
+                <p>Diseño responsive real que responde perfectamente a cualquier tamaño de pantalla.</p>
+            </div>
+        </div>
+    </main>
+
+    <footer class="main-footer">
+        <p>&copy; 2026 TechVision. Clase práctica de CSS.</p>
+    </footer>
+
+</body>
+</html>
