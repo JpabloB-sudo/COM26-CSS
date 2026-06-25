@@ -1,0 +1,48 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+    background-color: #f0f0f0;
+    color: #333333;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    background-color: #cccccc;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.hero-section {
+    background-color: #e0e0e0;
+    padding: 30px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.services-container {
+    margin-top: 20px;
+}
+
+/* Las tarjetas se ven amontonadas y verticales */
+.card {
+    background-color: #ffffff;
+    border: 1px solid #999999;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+footer {
+    margin-top: 30px;
+    background-color: #cccccc;
+    text-align: center;
+    padding: 10px;
+}
